@@ -1,4 +1,6 @@
-#### Craftopia is a Minecraft server focused on high-performance and quality gameplay.
+<img width="30%" alt="craftopia" src="https://github.com/user-attachments/assets/0df2c980-5316-4c6a-8a1f-af60136d711f" />
+
+### Craftopia is a Minecraft server focused on high-performance and quality gameplay.
 
 Enhanced survival with balanced plugins make playing with others more fun and enjoyable, with features like land claims, graves, temporary fly rewards, and a simple diamond economy.
 
